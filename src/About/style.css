@@ -1,0 +1,37 @@
+.about-container {
+    text-align: start;
+}
+
+h6{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #F4C018;
+}
+
+.intro {
+    width: 700px;
+    font-weight: 700;
+    font-size: 53px;
+    line-height: 64px;
+    text-transform: capitalize;
+    color: #540375;
+}
+
+.desc{
+    width: 700px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+ul{
+    font-weight: 500;
+}
+
+.ai-image{
+    width: 526px;
+    height: 396px;
+}

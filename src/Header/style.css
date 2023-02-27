@@ -1,0 +1,49 @@
+.head1{
+    background: #F4C018;
+    width: 100%;
+    color: #FFFFFF;
+}
+.head2{
+    background: #FFFFFF;
+    width: 100%;
+}
+.head1box {
+    height: 56px;
+    width: 1036px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.head2box{
+    width: 1036px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.width-1036 {
+    width: 1036px;
+}
+
+.header-1 {
+    background: #F4C018;
+    max-width: 1036px;
+    color: #FFFFFF;
+    height: 56px;
+}
+
+.header-2 {
+    background: #FFFFFF;
+    max-width: 1036px;
+}
+
+.login-btn {
+    font-weight: 700;
+    font-size: 11.4289px;
+    background: #fff;
+    text-transform: capitalize;
+    color: #F4C018;
+    width: 110.67px;
+    border: none;
+    height: 36.92px;
+    background: #FFFFFF;
+    box-shadow: 0px 2.40705px 6.01762px rgb(0 0 0 / 15%);
+    border-radius: 25px;
+}
